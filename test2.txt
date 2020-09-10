@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is FCE3-AE9A
+
+ Directory of C:\Users\Sneha_Sharanappa_Mus\Desktop\MyTest
+
+09/10/2020  12:03 PM    <DIR>          .
+09/10/2020  12:03 PM    <DIR>          ..
+09/10/2020  11:41 AM               412 index.html
+09/10/2020  11:41 AM                 9 test1.txt
+09/10/2020  12:03 PM                 0 test2.txt
+               3 File(s)            421 bytes
+               2 Dir(s)  162,163,920,896 bytes free
